@@ -12,4 +12,6 @@ int main(){
     else{
         cout << "No Multiples" << endl;
     }
+
+    return 0; 
 }

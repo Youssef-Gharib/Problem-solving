@@ -1,7 +1,6 @@
 #include <iostream>
- 
 using namespace std;
- 
+
 int main()
 {
     int i;
@@ -15,7 +14,6 @@ int main()
     cout << ch << endl;
     cout << f << endl;
     cout << d << endl;
- 
- 
+    
     return 0;
 }
