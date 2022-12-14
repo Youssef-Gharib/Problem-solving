@@ -11,10 +11,11 @@ int main()
             sum+=a; 
         }
         if(sum>d){
+            sum-=d; 
             count++; 
         }
     } 
-    cout << count 
+    cout << count << endl;
     
 
 }
